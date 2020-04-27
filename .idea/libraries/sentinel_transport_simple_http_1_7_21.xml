@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentinel-transport-simple-http-1.7.21">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-transport-simple-http-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

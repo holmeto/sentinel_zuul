@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentinel-zuul-adapter-1.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-zuul-adapter-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

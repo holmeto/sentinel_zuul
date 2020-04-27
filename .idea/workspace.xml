@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17e8ba0f-54d4-45d0-bff9-60e0d0009324" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server/target/" />
+    <ignored path="$PROJECT_DIR$/zuul/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-client/target/" />
+    <ignored path="$PROJECT_DIR$/feignconsumer/target/" />
+    <ignored path="$PROJECT_DIR$/client/target/" />
+    <ignored path="$PROJECT_DIR$/../高途课堂统一网关/api-zuul/target/" />
+    <ignored path="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/target/" />
+    <ignored path="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-dependencies/target/" />
+    <ignored path="$PROJECT_DIR$/Sentinel-Limit/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-limit/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/ZuulConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="33">
+              <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/provider/MyBlockFallbackProvider.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="44">
+              <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/ZuulApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="10" column="39" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/SentinelApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-907">
+              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/filter/ZuulRateLimitForSingleFilter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-12">
+              <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/utils/RateLimiterUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-509">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/ZuulRatelimitConfiguration.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="175">
+              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>rateType</find>
+      <find>GatewayParamParser</find>
+      <find>ParamFlowRuleUtil</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../高途课堂统一网关/api-zuul" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/eureka-server/src/main/java/com/gaotuketang/eurekaserver/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/feignconsumer/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/gaotuketang/eurekaclient/client/HelloCilent.java" />
+        <option value="$PROJECT_DIR$/eureka-client/pom.xml" />
+        <option value="$PROJECT_DIR$/client/src/main/java/com/gaotuketang/client/HelloCilent.java" />
+        <option value="$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/ConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/gaotuketang/eurekaclient/controller/ClientController.java" />
+        <option value="$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/client/HelloClientFallBack.java" />
+        <option value="$PROJECT_DIR$/feignconsumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/client/HelloCilent.java" />
+        <option value="$PROJECT_DIR$/../高途课堂统一网关/api-zuul/src/main/java/com/baijia/gaotu/apizuul/filter/CheckInternalFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/AccessFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/AbstractBaseLimitFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/config/ZuulConfig.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/gaotuketang/eurekaclient/EurekaClientApplication.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/ZuulRateLimitFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/ZuulApplication.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/config/ZuulRatelimitConfiguration.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/utils/SelfBaseTokenRateLimiter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/SelfDefRateLimitForSingleFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/ZuulRateLimitForEveryServerFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/filter/ZuulRateLimitForSingleFilter.java" />
+        <option value="$PROJECT_DIR$/zuul/src/main/java/com/gaotuketang/zuul/utils/RateLimiterUtil.java" />
+        <option value="$PROJECT_DIR$/eureka-client/src/main/java/com/gaotuketang/eurekaclient/client/impl/HelloClientImpl.java" />
+        <option value="$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/config/Configuration.java" />
+        <option value="$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/config/SentinelAspectConfiguration.java" />
+        <option value="$PROJECT_DIR$/sentinel-limit/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/sentinel-limit/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/SentinelApplication.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/filter/SelfDefRateLimitForSingleFilter.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/tool/BaseTokenRateLimiter.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/ZuulApplication.java" />
+        <option value="$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/SentinelAspectConfiguration.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/provider/MyBlockFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/ZuulConfig.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\maven\apache-maven-3.6.1\respository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../maven/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuul" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="zuuldemo" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="43" />
+    <option name="width" value="1218" />
+    <option name="height" value="678" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="feignconsumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="sentinel" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul" type="462c0819:PsiDirectoryNode" />
+              <item name="provider" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zuuldemo" type="462c0819:PsiDirectoryNode" />
+              <item name="zuul-limit" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zuuldemo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-parameter-flow-control-1.7.2.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.38012207" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gaotuketang.zuul.config" />
+      <recent name="com.gaotuketang.consumer.client" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ZuulApplication">
+    <configuration name="ConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaotuketang.consumer.ConsumerApplication" />
+      <module name="feignconsumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotuketang.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaClientApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaotuketang.eurekaclient.EurekaClientApplication" />
+      <module name="eurekaclient" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotuketang.eurekaclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaotuketang.eurekaserver.EurekaServerApplication" />
+      <module name="eurekaserver" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotuketang.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SentinelApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaotuketang.sentinel.SentinelApplication" />
+      <module name="sentinel-limit" />
+      <option name="PROGRAM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=localhost:8080" />
+      <option name="VM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=localhost:8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotuketang.sentinel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.gaotuketang.zuul.ZuulApplication" />
+      <module name="zuul-limit" />
+      <option name="PROGRAM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=localhost:8080" />
+      <option name="VM_PARAMETERS" value="-Dcsp.sentinel.dashboard.server=localhost:8080" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gaotuketang.zuul.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.ConsumerApplication" />
+      <item itemvalue="Application.EurekaClientApplication" />
+      <item itemvalue="Application.EurekaServerApplication" />
+      <item itemvalue="Application.SentinelApplication" />
+      <item itemvalue="Application.ZuulApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ZuulApplication" />
+        <item itemvalue="Application.ConsumerApplication" />
+        <item itemvalue="Application.EurekaServerApplication" />
+        <item itemvalue="Application.EurekaClientApplication" />
+        <item itemvalue="Application.SentinelApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17e8ba0f-54d4-45d0-bff9-60e0d0009324" name="Default Changelist" comment="" />
+      <created>1587308126608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587308126608</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2708018" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.2590164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.1452345" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14372164" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.34754097" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32786885" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" visible="true" weight="0.23373677" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/cloud/spring-cloud-netflix-core/1.4.6.RELEASE/spring-cloud-netflix-core-1.4.6.RELEASE.jar!/org/springframework/cloud/netflix/zuul/web/ZuulController.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-webmvc/4.3.22.RELEASE/spring-webmvc-4.3.22.RELEASE.jar!/org/springframework/web/servlet/mvc/SimpleControllerHandlerAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-webmvc/4.3.22.RELEASE/spring-webmvc-4.3.22.RELEASE.jar!/org/springframework/web/servlet/DispatcherServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="407" selection-start-line="407" selection-end-line="407" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-webmvc/4.3.22.RELEASE/spring-webmvc-4.3.22.RELEASE.jar!/org/springframework/web/servlet/FrameworkServlet.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="407" selection-start-line="407" selection-end-line="407" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.37/tomcat-embed-websocket-8.5.37.jar!/org/apache/tomcat/websocket/server/WsFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/boot/spring-boot/1.5.19.RELEASE/spring-boot-1.5.19.RELEASE.jar!/org/springframework/boot/web/filter/ApplicationContextHeaderFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/boot/spring-boot-actuator/1.5.19.RELEASE/spring-boot-actuator-1.5.19.RELEASE.jar!/org/springframework/boot/actuate/trace/WebRequestTraceFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="59" column="19" selection-start-line="59" selection-start-column="19" selection-end-line="59" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/filter/RequestContextFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/filter/HttpPutFormContentFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/filter/HiddenHttpMethodFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/filter/CharacterEncodingFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="83" selection-start-line="83" selection-end-line="83" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/boot/spring-boot-actuator/1.5.19.RELEASE/spring-boot-actuator-1.5.19.RELEASE.jar!/org/springframework/boot/actuate/autoconfigure/MetricsFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="69" selection-start-line="69" selection-end-line="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-web/4.3.22.RELEASE/spring-web-4.3.22.RELEASE.jar!/org/springframework/web/filter/OncePerRequestFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="43" selection-start-line="43" selection-end-line="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/core/ApplicationFilterChain.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/core/StandardWrapperValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="204" selection-start-line="204" selection-end-line="204" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/core/StandardContextValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="48" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/core/StandardHostValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="36" column="22" selection-start-line="36" selection-start-column="22" selection-end-line="36" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/tomcat/util/net/SocketProcessorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+          <folding>
+            <element signature="e#0#878#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/tomcat/util/net/NioEndpoint.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="7" column="7" selection-start-line="7" selection-start-column="7" selection-end-line="7" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/coyote/AbstractProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="781" selection-start-line="781" selection-end-line="781" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/coyote/AbstractProcessorLight.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/coyote/http11/Http11Processor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="492" selection-start-line="492" selection-end-line="492" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/connector/CoyoteAdapter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="412" selection-start-line="412" selection-end-line="412" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/core/StandardEngineValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/valves/ErrorReportValve.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/apache/tomcat/embed/tomcat-embed-core/8.5.37/tomcat-embed-core-8.5.37.jar!/org/apache/catalina/authenticator/AuthenticatorBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="319" selection-start-line="319" selection-end-line="319" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-zuul-adapter-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulErrorFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-365">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-zuul-adapter-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulPostFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="e#379#380#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/org/springframework/spring-beans/4.3.22.RELEASE/spring-beans-4.3.22.RELEASE.jar!/org/springframework/beans/factory/annotation/InitDestroyAnnotationBeanPostProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="191" selection-start-line="191" selection-end-line="191" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-core-1.7.2.jar!/com/alibaba/csp/sentinel/context/ContextUtil.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="45" column="26" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/com/netflix/zuul/zuul-core/1.3.1/zuul-core-1.3.1.jar!/com/netflix/zuul/ZuulFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="54" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/client/HelloCilent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/client/HelloClientFallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/ConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/feignconsumer/src/main/java/com/gaotuketang/consumer/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/filter/SelfDefRateLimitForSingleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="21" column="34" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/filter/ZuulRateLimitForSingleFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-12">
+          <caret line="30" column="35" selection-start-line="30" selection-start-column="35" selection-end-line="30" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/utils/RateLimiterUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-509">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/ZuulRatelimitConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/SentinelAspectConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/config/SentinelAspectConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sentinel-limit/src/main/java/com/gaotuketang/sentinel/SentinelApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-907">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-api-gateway-adapter-common-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayFlowRule.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="76" column="27" selection-start-line="76" selection-start-column="27" selection-end-line="76" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-api-gateway-adapter-common-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/common/api/ApiPathPredicateItem.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="21" column="32" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-zuul-adapter-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/zuul/filters/SentinelZuulPreFilter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/provider/MyBlockFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="17" column="25" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-api-gateway-adapter-common-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/common/SentinelGatewayConstants.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="39" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/ZuulApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="16" column="59" selection-start-line="16" selection-start-column="59" selection-end-line="16" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-api-gateway-adapter-common-1.7.2.jar!/com/alibaba/csp/sentinel/adapter/gateway/common/rule/GatewayRuleManager.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2400">
+          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-limit/src/main/java/com/gaotuketang/zuul/config/ZuulConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="71" column="7" lean-forward="true" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3243243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3243243" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sentinel-limit</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38012207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>sentinel-parameter-flow-control-1.7.2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.38012207" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="" />
+  </component>
+</project>

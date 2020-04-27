@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sentinel-parameter-flow-control-1.7.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../maven/apache-maven-3.6.1/respository/csp/sentinel-parameter-flow-control-1.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sentinel-limit" />
+        <module name="feignconsumer" />
+        <module name="zuul-limit" />
+        <module name="api-zuul" />
+        <module name="eurekaserver" />
+        <module name="client" />
+        <module name="eurekaclient" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bucket4j-hazelcast" target="1.8" />
+      <module name="bucket4j-ignite" target="1.8" />
+      <module name="bucket4j-infinispan" target="1.8" />
+      <module name="bucket4j-jcache" target="1.8" />
+      <module name="consul" target="1.8" />
+      <module name="redis" target="1.8" />
+      <module name="security-context" target="1.8" />
+      <module name="spring-cloud-zuul-ratelimit" target="1.8" />
+      <module name="spring-cloud-zuul-ratelimit-core" target="1.8" />
+      <module name="spring-cloud-zuul-ratelimit-coverage" target="1.8" />
+      <module name="spring-cloud-zuul-ratelimit-dependencies" target="1.8" />
+      <module name="spring-cloud-zuul-ratelimit-parent" target="1.8" />
+      <module name="springdata" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

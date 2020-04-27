@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../高途课堂统一网关/api-zuul/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-starter-zuul-ratelimit/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-core/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-coverage/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-dependencies/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/bucket4j-hazelcast/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/bucket4j-ignite/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/bucket4j-infinispan/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/bucket4j-jcache/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/consul/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/redis/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/security-context/pom.xml" />
+        <option value="$PROJECT_DIR$/../限流/spring-cloud-zuul-ratelimit/spring-cloud-zuul-ratelimit-tests/springdata/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
